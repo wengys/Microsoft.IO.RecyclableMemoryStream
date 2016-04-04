@@ -1,1 +1,1 @@
-分支自[Microsoft.IO.RecyclableMemoryStream](https://github.com/wengys/Microsoft.IO.RecyclableMemoryStream)，大幅简化以便演示。实际项目中请下载官方版本（`Install-Package Microsoft.IO.RecyclableMemoryStream`）
+分支自[Microsoft.IO.RecyclableMemoryStream](https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream)，大幅简化以便演示。实际项目中请下载官方版本（`Install-Package Microsoft.IO.RecyclableMemoryStream`）
